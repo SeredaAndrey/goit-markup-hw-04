@@ -138,7 +138,7 @@ button {
 }
 .contacts-style a {
   display: flex;
-  align-items: stretch;
+  align-items: center;
 }
 .contacts-style li {
   padding: 0;
